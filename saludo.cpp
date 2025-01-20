@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
  string nombre = "Lautaro";
- string apellido = "Solis"; 
+ string apellido = "Deica"; 
 
  string saludo = "Hola "+ nombre + " " + apellido+". ¿Cómo estás?"; 
 
